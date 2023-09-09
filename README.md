@@ -44,7 +44,7 @@ The code includes:
 
 ### Note
 
-The original file is located at [https://colab.research.google.com/drive/1LTJRztvUuKclV7VfjsbvKAMXVorjIgHc](https://colab.research.google.com/drive/1LTJRztvUuKclV7VfjsbvKAMXVorjIgHc).
+The original file is located at [https://colab.research.google.com/drive/1LTJRztvUuKclV7VfjsbvKAMXVorjIgHc](https://colab.research.google.com/drive/1LTJRztvUuKclV7VfjsbvKAMXVorjIgHc?usp=sharing).
 
 ### Dependencies
 
