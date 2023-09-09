@@ -61,3 +61,7 @@ The original file is located at [https://colab.research.google.com/drive/1LTJRzt
 1. The tokenization is specific to the model "EleutherAI/pythia-70m".
 2. The encryption mechanism uses the AES-GCM cipher, which requires the storage of both an IV (Initialization Vector) and an authentication tag for decryption. Not storing these securely can compromise the encryption.
 3. The code assumes the input texts are in utf-8 encoding. Different encodings may lead to errors.
+
+### Uses
+This encryption technique, if used correctly, can provide robust security for a wide range of sensitive data, including text, photos, multimedia files, and more. In the context of text communication, such as emails or instant messaging, it ensures that confidential information remains private and protected from unauthorized access. For photos and multimedia files, this encryption can safeguard personal photos, videos, and audio recordings from prying eyes or data breaches, especially important in an era of increasing digital privacy concerns. In business settings, it can be employed to secure proprietary documents, financial records, and multimedia presentations, preserving competitive advantages and intellectual property. Overall, the application of this encryption methodology can instill a sense of trust and privacy in digital interactions, enabling individuals and organizations to confidently exchange sensitive information in an increasingly interconnected world.
+
