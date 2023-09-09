@@ -1,5 +1,8 @@
 # README
 
+**Welcome to the Project README!**
+
+This README serves as a comprehensive guide to our project, providing essential information and instructions for users, contributors, and anyone interested in this project. We'll walk you through the project's goals, features, installation steps, and usage guidelines. Please follow the instructions carefully to get started and make the most out of our project. If you encounter any issues or have suggestions for improvement, don't hesitate to reach out. Your feedback and contributions are highly valued and appreciated. Thank you for being a part of our project's community!
 ## Encryption Using Transformers
 
 This code is designed to showcase the use of transformer-based tokenization in conjunction with standard cryptographic techniques to encrypt and then decrypt a given text.
